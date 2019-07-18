@@ -1,0 +1,22 @@
+.a_2 {}
+
+.a_1 {
+    margin-bottom: 10px;
+    display: flex;
+    /*border: 1px solid black;*/
+}
+
+.title {
+    text-align: center;
+    width: 100px;
+}
+
+.block {
+    display: inline-block;
+}
+
+.item{
+    cursor: pointer;
+}
+
+
