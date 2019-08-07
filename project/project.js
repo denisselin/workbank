@@ -1,5 +1,5 @@
 storagebank = [{
-    id: 1,
+    id: 2,
     name: 'GPU',
     quantity: 3,
     cost: 15
